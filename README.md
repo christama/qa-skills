@@ -1,4 +1,4 @@
-# QA Skills for AI Agents
+# QA Skills for AI Agents 
 
 QA and test automation skills for Claude Code, Codex, Cursor,
 Gemini CLI, VS Code, and other agents that support the Agent Skills Standard.
